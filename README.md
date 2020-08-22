@@ -16,7 +16,10 @@ Structure of training data folder :
 ![Training Graph](https://github.com/Brannigan123/Hy/blob/master/images/Training.PNG)
 
 ### Inference panel
-![Alice image 1 inference](https://github.com/Brannigan123/Hy/blob/master/images/Alice.PNG)
-![Alice image 2 inference](https://github.com/Brannigan123/Hy/blob/master/images/Alice%202.PNG)
-![Carlos image 1 inference](https://github.com/Brannigan123/Hy/blob/master/images/Carlos%202.PNG)
-![Carlos image 2 inference](https://github.com/Brannigan123/Hy/blob/master/images/Carlos%203.PNG)
+![Alice image 1 inference](https://github.com/FaceID/Hy/blob/master/images/Alice.PNG)
+![Alice image 2 inference](https://github.com/FaceID/Hy/blob/master/images/Alice%202.PNG)
+![Andrew image 1 inference](https://github.com/FaceID/Hy/blob/master/images/andrew1.PNG)
+![Andrew image 1 inference](https://github.com/FaceID/Hy/blob/master/images/andrew2.PNG)
+![Carlos image 1 inference](https://github.com/FaceID/Hy/blob/master/images/Carlos%201.PNG)
+![Carlos image 2 inference](https://github.com/FaceID/Hy/blob/master/images/Carlos%202.PNG)
+![Carlos image 3 inference](https://github.com/FaceID/Hy/blob/master/images/Carlos%203.PNG)
