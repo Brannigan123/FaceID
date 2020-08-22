@@ -13,13 +13,7 @@ Structure of training data folder :
 ## Screenshots
 
 ### Training panel
-![Training Graph](https://github.com/Brannigan123/FaceID/blob/master/images/Training.PNG)
+<img src="images/Training.PNG" height="400em" hspace=10 vspace=10/>
 
 ### Inference panel
-![Alice image 1 inference](https://github.com/Brannigan123/FaceID/blob/master/images/Alice.PNG)
-![Alice image 2 inference](https://github.com/Brannigan123/FaceID/blob/master/images/Alice%202.PNG)
-![Andrew image 1 inference](https://github.com/Brannigan123/FaceID/blob/master/images/andrew1.PNG)
-![Andrew image 1 inference](https://github.com/Brannigan123/FaceID/blob/master/images/andrew2.PNG)
-![Carlos image 1 inference](https://github.com/Brannigan123/FaceID/blob/master/images/Carlos%201.PNG)
-![Carlos image 2 inference](https://github.com/Brannigan123/FaceID/blob/master/images/Carlos%202.PNG)
-![Carlos image 3 inference](https://github.com/Brannigan123/FaceID/blob/master/images/Carlos%203.PNG)
+<img src="images/Alice.PNG" height="400em" hspace=10 vspace=10/><img src="images/Alice%202.PNG" height="400em" hspace=10 vspace=10/><img src="images/Carlos%201.PNG" height="400em" hspace=10 vspace=10/><img src="images/Carlos%202.PNG" height="400em" hspace=10 vspace=10/><img src="images/Carlos%203.PNG" height="400em" hspace=10 vspace=10/><img src="images/andrew1.PNG" height="400em" hspace=10 vspace=10/><img src="images/andrew2.PNG" height="400em" hspace=10 vspace=10/>
